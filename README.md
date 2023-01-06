@@ -14,4 +14,4 @@ Each index of new dataset contains tupple of 4 values.
 example if label is 7 and random number is 5 the summation will be 12
 
 ## model architecture
-![Alt text](util/img.jpg?raw=true "Title")
+![Alt text](img.JPG?raw=true "model architecture")
