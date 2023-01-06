@@ -26,6 +26,8 @@ We are using cross entropy loss and finally summing both losses and calcuating g
 
 ## Result evaluation
 To evaluate the result we are using test dataset. We also divided evaluation into two parts first part evaluate image prediction accuracy and second part evaluate summation predicition accurary. we are also using number of correct prediction to evaluate the results.
+<br>
+we achieved approx 97% test accuracy for image prediction and approx 13% for summation prediction.
 
 ## Training logs
 `0%|          | 0/469 [00:00<?, ?it/s]<ipython-input-2-03f2047c8575>:42: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
